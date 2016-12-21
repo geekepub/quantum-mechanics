@@ -1,7 +1,7 @@
 book_filename: "quantum-mechanics"
-chapter_name: "Chapter "
+chapter_name: "Lecture "
 repo: https://github.com/geekepub/quantum-mechanics
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+rmd_files: ["index.Rmd", "01-Systems-and-Experiments.Rmd", "02-Quantum States.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes
