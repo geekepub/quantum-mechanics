@@ -1,6 +1,6 @@
-book_filename: "bookdown-start"
+book_filename: "quantum-mechanics"
 chapter_name: "Chapter "
-repo: https://github.com/seankross/bookdown-start
+repo: https://github.com/geekepub/quantum-mechanics
 output_dir: docs
 rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
 clean: [packages.bib, bookdown.bbl]
